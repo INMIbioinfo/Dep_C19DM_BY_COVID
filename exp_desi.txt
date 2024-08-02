@@ -1,0 +1,15 @@
+label	condition	replicate
+Abundance._126F3	BC	1
+Abundance._127NF3	B.1	1
+Abundance._127CF3	B.1	2
+Abundance._128NF3	B.1	3	
+Abundance._128CF3	Delta	1
+Abundance._129NF3	Delta	2
+Abundance._129CF3	Delta	3
+Abundance._130NF3	Omicron	1
+Abundance._130CF3	Omicron	2
+Abundance._131NF3	Omicron	3
+Abundance._131CF3	Mock	1
+Abundance._132NF3	Mock	2
+Abundance._132CF3	Mock	3
+Abundance._133NF3	BC	2
